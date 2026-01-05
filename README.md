@@ -56,7 +56,15 @@ Scan RFID card
 System checks UID
 Displays result on LCD
 Provides LED & buzzer feedback
-#### watch the demo video on youtube : https://youtu.be/qHgr5DKHfdw?si=aA5lPTRoLuLduzeS
+## Circuit Diagram
+
+
+[![20251115_122155](https://github.com/user-attachments/assets/70808d4f-d089-4ac6-9f2f-718c0813f1e9)
+](images/sound_wiring.jpg)
+## Demo video
+Here is a demo video showing how the RFID Attendance  system works:
+[watch the demo on Youtube]( https://youtu.be/qHgr5DKHfdw?si=aA5lPTRoLuLduzeS)
+
 
 ## 🛠️ Technical Challenges & Solutions
 ### 1️⃣ RFID Not Scanning

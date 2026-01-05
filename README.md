@@ -58,9 +58,9 @@ Displays result on LCD
 Provides LED & buzzer feedback
 ## Circuit Diagram
 
-
 https://github.com/Angelo-arduino/Smart-RFID-Attendance-system/blob/main/20260104_214639.jpg
-
+## code used
+https://github.com/Angelo-arduino/Smart-RFID-Attendance-system/blob/main/sketch_jan4a.ino
 ## Demo video
 Here is a demo video showing how the RFID Attendance  system works:
 [watch the demo on Youtube]( https://youtu.be/qHgr5DKHfdw?si=aA5lPTRoLuLduzeS)
